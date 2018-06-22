@@ -1,6 +1,6 @@
 # IGA-SoftAppliance
 Creator: Abrom Douglas III <br />
-Project Name: IGA SoftAppliance
+Project Name: IGA_SoftAppliance
 
 ------------------------------------------------
 This is a software appliance that can run an Identity Governance and Administration (IGA) platform. This can be used for small deployments in a production environment or used as an isolated development environment.
