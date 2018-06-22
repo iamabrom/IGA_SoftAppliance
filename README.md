@@ -1,9 +1,17 @@
 # IGA-SoftAppliance
-This repository is to deploy a software appliance that is capable to run an Identity Governance and Administration (IGA) platform. This can be used for small deployments in a production environment or used as an isolated development environment.
+Creator: Abrom Douglas III <br />
+Project Name: IGA SoftAppliance
 
-This project includes a soft appliance based on a LAMP stack, using CentOS 7 as the OS. The soft appliance is detributed as an Open Virtual Appliance (OVA) image. This will contain everything needed to build out a development/learning environment, including the open source OrangeHRM to be to authoritative source of truth for identities. 
+------------------------------------------------
+This is a software appliance that can run an Identity Governance and Administration (IGA) platform. This can be used for small deployments in a production environment or used as an isolated development environment.
 
-This soft appliance DOES NOT conatin any IGA software. This stack is designed to run IGA platforms such as SailPoint IIQ, RSA IGL, One Identity- Identity Manager, OpenIAM, Soffid, or Core Security- Access, Provisioning, & Identiity Suite.
+This project includes a soft appliance based on a LAMP stack, using CentOS 7 as the OS. The soft appliance is distributed as an Open Virtual Appliance (OVA) image. This will contain everything needed to build out a development/learning environment, including the open source OrangeHRM to be to authoritative source of truth for identities.
+
+This soft appliance DOES NOT contain any IGA software. This stack is designed to run IGA platforms such as SailPoint IIQ, RSA IGL, One Identity- Identity Manager, OpenIAM, Soffid, or Core Security- Access, Provisioning, & Identity Suite.
+
+Note: The default username and password for this soft appliance happens to be sailpoint. However, this is not associated to SailPoint Technologies at all. This can/should be changed upon initial configuration.
+
+------------------------------------------------
 
 ### Stack
 - CentOS 7 <br />
