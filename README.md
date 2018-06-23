@@ -30,3 +30,9 @@ Note: The default username and password for this soft appliance happens to be sa
 - phpMyAdmin
 - phpLDAPadmin
 - Sublime 3
+
+## Download OVA
+__https://ad3.in/IGA_SoftAppliance__ <br />
+
+MD5: 73CF8838C9341D60A031CF463B41D636 <br />
+SHA1: 093901bf6a3b7fcc100d1c2134994ac41232f53d <br />
