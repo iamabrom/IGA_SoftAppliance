@@ -8,13 +8,13 @@ This software appliance DOES NOT contain any IGA software pre-installed. The sof
 
 ## Deployment
 
-#### Enterprise
+#### _Enterprise_
 Within an enterprise environment, using bare metal, it is recommended to use ESXi/vSphere, Xen, or Proxmox. If Hyper-V is preferred, then you will need to leverage a 3rd tool to convert the OVA to a VHD format. Using Hyper-V is not recommended or supported at the moment.
 
-#### Lab Environment
+#### _Lab Environment_
 If used as an isolated learning/lab environment VirtualBox or VMware Workstation Player should be used. VirtualBox is preferred and recommended.
 
-#### Default Usernames/Passwords
+#### _Default Usernames/Passwords_
 All default usernames and passwords are included within the Description of the OVA image. All passwords should be changed immediately if this is being deployed within an enterprise. It is also recommended to changed default usernames/passwords even if only being used locally or within a lab environment.
 
 #### Default VM Configs
