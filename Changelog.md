@@ -3,7 +3,7 @@
 Changelog of IGA_SoftAppliance
 
 ##  1.0.0
-### Details
+#### Details
 
 Date: 2018-06-22  <br />
 Size: 2.9GB  <br />
