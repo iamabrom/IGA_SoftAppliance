@@ -17,7 +17,7 @@ If used as an isolated learning/lab environment VirtualBox or VMware Workstation
 #### _Default Usernames/Passwords_
 All default usernames and passwords are included within the Description of the OVA image. All passwords should be changed immediately if this is being deployed within an enterprise. It is also recommended to changed default usernames/passwords even if only being used locally or within a lab environment.
 
-#### Default VM Configs
+#### _Default VM Configs_
 The default settings for the soft appliance are as follows; change accordingly as needed
 - vCPU: 2
 - RAM: 4GB
