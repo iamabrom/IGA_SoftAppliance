@@ -1,6 +1,6 @@
 # IGA-SoftAppliance
 
-This is a software appliance that can run an Identity Governance and Administration (IGA) platform. This can be used for small deployments in a production environment (under 500 identities) or used as an isolated development/lab environment.
+This is a software appliance that can run an Identity Governance and Administration (IGA) platform. This can be used for small deployments in a production environment (under 250 identities) or used as an isolated development/lab environment.
 
 This project includes a soft appliance based on a LAMP stack, using CentOS 7. The soft appliance is distributed as an Open Virtual Appliance (OVA) image. This will contain everything needed to build out a development/learning environment, including the open source OrangeHRM application to serve as the authoritative source of truth for identities. If using in a production environment some additional configurations will be required based on the business needs and existing infrastructure.
 
