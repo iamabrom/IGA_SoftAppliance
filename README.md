@@ -6,6 +6,13 @@ This project includes a soft appliance based on a LAMP stack, using CentOS 7. Th
 
 This software appliance DOES NOT contain any IGA software pre-installed. The soft appliance is designed to run IGA platforms such as SailPoint IIQ, RSA IGL, One Identity: Identity Manager, or Core Security- Access, Provisioning, & Identity Suite; as examples. The previously mentioned examples do require licensing, please reach out to those vendors if needed. You can also use free and/or open source platforms such as OpenIAM (__www.openiam.com__) or Soffid (__www.soffid.com/__).
 
+## Download OVA
+__https://ad3.in/IGA_SoftAppliance__ <br />
+
+version: 1.0.1 <br />
+MD5: 084124fdc6412621e24a56dae5090f2a <br />
+SHA1: c6155fa1998783efe627248e151ba79fd68a78df <br />
+
 ## Deployment
 
 #### _Enterprise_
@@ -42,13 +49,6 @@ The default settings for the soft appliance are as follows; change accordingly a
 - phpMyAdmin
 - phpLDAPadmin
 - Sublime 3
-
-## Download OVA
-__https://ad3.in/IGA_SoftAppliance__ <br />
-
-version: 1.0.1 <br />
-MD5: 084124fdc6412621e24a56dae5090f2a <br />
-SHA1: c6155fa1998783efe627248e151ba79fd68a78df <br />
 
 ## Disclaimer
 This software appliance is provided “as is,” with all faults, and Abrom Douglas III express no representations or warranties, of any kind related to this software appliance or the materials contained within this GitHub Repo. Also, nothing contained within this software appliance shall be interpreted as advising you. 
