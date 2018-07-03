@@ -9,7 +9,7 @@ Date: 2018-07-02  <br />
 Size: 2.89GB  <br />
 Summary: OVA was made IGA product Agnoctic  <br />
 Details:
-- Default user/password was changed to "iga"
+- Default user was changed to "iga"
 
 MD5: 084124fdc6412621e24a56dae5090f2a  <br />
 SHA1: c6155fa1998783efe627248e151ba79fd68a78df  <br />
