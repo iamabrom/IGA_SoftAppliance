@@ -4,18 +4,18 @@ This is a software appliance that can run an Identity Governance and Administrat
 
 This project includes a soft appliance based on a LAMP stack, using CentOS 7. The soft appliance is distributed as an Open Virtual Appliance (OVA) image. This will contain everything needed to build out a development/learning environment, including the open source OrangeHRM application to serve as the authoritative source of truth for identities. If using in a production environment some additional configurations will be required based on the business needs and existing infrastructure.
 
-This software appliance DOES NOT contain any IGA software pre-installed. The soft appliance is designed to run IGA platforms such as SailPoint IIQ, RSA IGL, One Identity: Identity Manager, OpenIAM, Soffid, or Core Security- Access, Provisioning, & Identity Suite; as examples.
+This software appliance DOES NOT contain any IGA software pre-installed. The soft appliance is designed to run IGA platforms such as SailPoint IIQ, RSA IGL, One Identity: Identity Manager, or Core Security- Access, Provisioning, & Identity Suite; as examples. The previously mentioned examples do require licensing, please reach out to those vendors if needed. You can also use free and/or open source platforms such as OpenIAM (__www.openiam.com__) or Soffid (__www.soffid.com/__).
 
 ## Deployment
 
 #### _Enterprise_
-Within an enterprise environment, using bare metal, it is recommended to use ESXi/vSphere, Xen, or Proxmox. If Hyper-V is preferred, then you will need to leverage a 3rd tool to convert the OVA to a VHD format. Using Hyper-V is not recommended or supported at the moment.
+Within an enterprise environment, using bare metal, it is recommended to use ESXi/vSphere, Xen, or Proxmox. If Hyper-V is preferred, then you will need to leverage a 3rd tool to convert the OVA to a VHD format. Using Hyper-V is not recommended or supported at the moment. You can also also leverage the AWS CLI to deploy the OVA to an EC2 instance. Navigate here for guidance: __https://aws.amazon.com/ec2/vm-import/__
 
 #### _Lab Environment_
 If used as an isolated learning/lab environment VirtualBox or VMware Workstation Player should be used. VirtualBox is preferred and recommended.
 
 #### _Default Usernames/Passwords_
-All default usernames and passwords are included within the Description of the OVA image. All passwords should be changed immediately if this is being deployed within an enterprise. It is also recommended to changed default usernames/passwords even if only being used locally or within a lab environment.
+All default usernames and passwords are included within the Description of the OVA image itself. It is also avaiabble in the _readme.txt_ file on the desktop. All passwords should be changed immediately if this is being deployed within an enterprise. It is also recommended to changed default usernames/passwords even if only being used locally or within a lab environment.
 
 #### _Default VM Configs_
 The default settings for the soft appliance are as follows; change accordingly as needed
