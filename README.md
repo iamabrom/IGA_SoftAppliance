@@ -15,7 +15,7 @@ Within an enterprise environment, using bare metal, it is recommended to use ESX
 If used as an isolated learning/lab environment VirtualBox or VMware Workstation Player should be used. VirtualBox is preferred and recommended.
 
 #### _Default Usernames/Passwords_
-All default usernames and passwords are included within the Description of the OVA image itself. It is also avaiabble in the _readme.txt_ file on the desktop. All passwords should be changed immediately if this is being deployed within an enterprise. It is also recommended to changed default usernames/passwords even if only being used locally or within a lab environment.
+All default usernames and passwords are included within the Description of the OVA image itself. It is also available in the _ReadMe.txt_ file on the desktop. All passwords should be changed immediately if this is being deployed within an enterprise. It is also recommended to changed default usernames/passwords even if only being used locally or within a lab environment.
 
 #### _Default VM Configs_
 The default settings for the soft appliance are as follows; change accordingly as needed
@@ -49,3 +49,10 @@ __https://ad3.in/IGA_SoftAppliance__ <br />
 version: 1.0.1 <br />
 MD5: 084124fdc6412621e24a56dae5090f2a <br />
 SHA1: c6155fa1998783efe627248e151ba79fd68a78df <br />
+
+## Disclaimer
+This software appliance is provided “as is,” with all faults, and Abrom Douglas III express no representations or warranties, of any kind related to this software appliance or the materials contained within this GitHub Repo. Also, nothing contained within this software appliance shall be interpreted as advising you. 
+
+In no event shall Abrom Douglas III be held liable for anything arising out of or in any way connected with your use of this software appliance.
+
+The IGA_SoftAppliance is 100% free of charge as all software contained within is free and/or open source (including Apache, GPL, MIT, Eclipse, or Creative Commons).
